@@ -1,0 +1,7 @@
+/* This stylesheet is used to style the public-facing components of the plugin. */
+.cbpushover_ajax_icon img{
+    height: 20px;
+    width: 20px;
+}
+
+.cbpd-text-left .checkbox{ margin-top: 0px !important;}

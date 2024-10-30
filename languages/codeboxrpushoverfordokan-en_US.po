@@ -1,0 +1,331 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CBX Pushover Notification for Dokan v1.0.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-10-16 17:48:24+0000\n"
+"Last-Translator: pdn <email.rothy@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: public/class-codeboxrpushoverfordokan.php:188
+#@ codeboxrpushoverfordokan
+msgid "Enter Api to Test "
+msgstr ""
+
+#: public/class-codeboxrpushoverfordokan.php:210
+#@ codeboxrpushoverfordokan
+msgid "Product Backorder"
+msgstr ""
+
+#: public/class-codeboxrpushoverfordokan.php:211
+#, php-format
+#@ codeboxrpushoverfordokan
+msgid "Product (#%d %s) is on backorder."
+msgstr ""
+
+#: public/class-codeboxrpushoverfordokan.php:262
+#: public/class-codeboxrpushoverfordokan.php:316
+#@ codeboxrpushoverfordokan
+msgid "Product Low Stock"
+msgstr ""
+
+#: public/class-codeboxrpushoverfordokan.php:263
+#, php-format
+#@ codeboxrpushoverfordokan
+msgid "Product %s %s now out of stock."
+msgstr ""
+
+#: public/class-codeboxrpushoverfordokan.php:317
+#, php-format
+#@ codeboxrpushoverfordokan
+msgid "Product %s %s now has low stock."
+msgstr ""
+
+#: public/class-codeboxrpushoverfordokan.php:566
+#: public/form.php:22
+#@ codeboxrpushoverfordokan
+msgid "Pushover Settings"
+msgstr ""
+
+#: public/class-codeboxrpushoverfordokan.php:583
+#: public/form.php:28
+#@ codeboxrpushoverfordokan
+msgid "Pushover makes it easy to send real-time notifications to your Android and iOS devices."
+msgstr ""
+
+#: public/form.php:104
+#: public/pushover-form.php:66
+#@ codeboxrpushoverfordokan
+msgid "Enable"
+msgstr ""
+
+#: public/form.php:108
+#: public/pushover-form.php:70
+#@ codeboxrpushoverfordokan
+msgid "Enable sending of notifications"
+msgstr ""
+
+#: public/form.php:117
+#: public/pushover-form.php:79
+#@ codeboxrpushoverfordokan
+msgid "User Api Token"
+msgstr ""
+
+#: public/form.php:125
+#: public/pushover-form.php:87
+#@ codeboxrpushoverfordokan
+msgid "Device"
+msgstr ""
+
+#: public/form.php:126
+#: public/pushover-form.php:88
+#@ codeboxrpushoverfordokan
+msgid "Optional: Name of device to send notifications"
+msgstr ""
+
+#: admin/class-codeboxrpushoverfordokan-admin.php:50
+#@ codeboxrpushoverfordokan
+msgid "Debug"
+msgstr ""
+
+#: admin/class-codeboxrpushoverfordokan-admin.php:51
+#@ codeboxrpushoverfordokan
+msgid "Enable debug logging"
+msgstr ""
+
+#: public/form.php:148
+#: public/pushover-form.php:110
+#@ codeboxrpushoverfordokan
+msgid "New Order"
+msgstr ""
+
+#: public/form.php:152
+#: public/pushover-form.php:114
+#@ codeboxrpushoverfordokan
+msgid "Send notification when a new order is received."
+msgstr ""
+
+#: public/form.php:159
+#: public/pushover-form.php:121
+#@ codeboxrpushoverfordokan
+msgid "Free Order"
+msgstr ""
+
+#: public/form.php:170
+#: public/pushover-form.php:132
+#@ codeboxrpushoverfordokan
+msgid "Back Order"
+msgstr ""
+
+#: public/form.php:174
+#: public/pushover-form.php:136
+#@ default
+msgid "Send notification when a product is back ordered."
+msgstr ""
+
+#: public/form.php:180
+#: public/pushover-form.php:142
+#@ codeboxrpushoverfordokan
+msgid "No Stock"
+msgstr ""
+
+#: public/form.php:184
+#: public/pushover-form.php:146
+#@ default
+msgid "Send notification when a product has no stock."
+msgstr ""
+
+#: public/form.php:190
+#: public/pushover-form.php:152
+#@ codeboxrpushoverfordokan
+msgid "Low Stock"
+msgstr ""
+
+#: public/form.php:194
+#: public/pushover-form.php:156
+#@ default
+msgid "Send notification when a product hits the low stock."
+msgstr ""
+
+#: public/form.php:202
+#: public/pushover-form.php:164
+#@ codeboxrpushoverfordokan
+msgid "Send Test"
+msgstr ""
+
+#: public/class-codeboxrpushoverfordokan.php:875
+#@ codeboxrpushoverfordokan
+msgid "Sending: "
+msgstr ""
+
+#: public/class-codeboxrpushoverfordokan.php:882
+#@ codeboxrpushoverfordokan
+msgid "Response: "
+msgstr ""
+
+#: public/class-codeboxrpushoverfordokan.php:885
+#, php-format
+#@ codeboxrpushoverfordokan
+msgid "Error: Caught exception from send method: %s"
+msgstr ""
+
+#: public/class-codeboxrpushoverfordokan.php:888
+#@ codeboxrpushoverfordokan
+msgid "Pushover response"
+msgstr ""
+
+#: public/class-codeboxrpushoverfordokan.php:181
+#@ codeboxrpushoverfordokan
+msgid "Test Pushover for Dokan "
+msgstr ""
+
+#: public/class-codeboxrpushoverfordokan.php:182
+#@ codeboxrpushoverfordokan
+msgid "This is a test pushover notification for Dokan plugin"
+msgstr ""
+
+#: public/class-codeboxrpushoverfordokan.php:413
+#: public/class-codeboxrpushoverfordokan.php:483
+#, php-format
+#@ codeboxrpushoverfordokan
+msgid "New Order #%d (%s%d) "
+msgstr ""
+
+#: public/class-codeboxrpushoverfordokan.php:416
+#: public/class-codeboxrpushoverfordokan.php:486
+#, php-format
+#@ codeboxrpushoverfordokan
+msgid "%1$s ordered %2$s %3$s"
+msgstr ""
+
+#: admin/class-codeboxrpushoverfordokan-admin.php:42
+#@ codeboxrpushoverfordokan
+msgid "Site API Token"
+msgstr ""
+
+#. translators: plugin header field 'Name'
+#: codeboxrpushoverfordokan.php:0
+#@ codeboxrpushoverfordokan
+msgid "CBX Pushover Notification for Dokan"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#: codeboxrpushoverfordokan.php:0
+#@ codeboxrpushoverfordokan
+msgid "http://wpboxr.com/product/pushover-notification-for-dokan"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: codeboxrpushoverfordokan.php:0
+#@ codeboxrpushoverfordokan
+msgid "Pushover Notification for Dokan, a multi vendor platform for woocommerce inside wordpress"
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: codeboxrpushoverfordokan.php:0
+#@ codeboxrpushoverfordokan
+msgid "WPBoxr"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: codeboxrpushoverfordokan.php:0
+#@ codeboxrpushoverfordokan
+msgid "http://wpboxr.com"
+msgstr ""
+
+#: public/class-codeboxrpushoverfordokan.php:158
+#@ default
+msgid "Security check, Please refresh browser."
+msgstr ""
+
+#: public/form.php:206
+#: public/pushover-form.php:168
+#@ codeboxrpushoverfordokan
+msgid "Click to send test notification"
+msgstr ""
+
+#: public/class-codeboxrpushoverfordokan.php:857
+#@ codeboxrpushoverfordokan
+msgid "Site API or User API setting is missing.  Notification is not sent."
+msgstr ""
+
+#: admin/class-codeboxrpushoverfordokan-admin.php:68
+#@ codeboxrpushoverfordokan
+msgid "Pushover Setting"
+msgstr ""
+
+#: public/class-codeboxrpushoverfordokan.php:526
+#: public/class-codeboxrpushoverfordokan.php:545
+#@ codeboxrpushoverfordokan
+msgid "Push Notification"
+msgstr ""
+
+#: public/class-dokan-pushover-setting.php:27
+#: public/class-dokan-pushover-setting.php:35
+#: public/class-dokan-pushover-setting.php:74
+#@ dokan
+msgid "Are you cheating?"
+msgstr ""
+
+#: public/class-dokan-pushover-setting.php:50
+#@ codeboxrpushoverfordokan
+msgid "Pushover setting has been saved successfully"
+msgstr ""
+
+#: public/class-dokan-pushover-setting.php:95
+#@ codeboxrpushoverfordokan
+msgid "Userapi Token needs to be 30 characters long and should not any char but [A-Za-z0-9]."
+msgstr ""
+
+#: public/class-dokan-pushover-setting.php:101
+#@ codeboxrpushoverfordokan
+msgid "Device name can not be more than 25 character and may not contain but [A-Za-z0-9_-]"
+msgstr ""
+
+#: public/form.php:23
+#@ dokan
+msgid "Visit Store"
+msgstr ""
+
+#: public/form.php:59
+#@ dokan
+msgid "Your profile has been updated successfully!"
+msgstr ""
+
+#: public/form.php:135
+#: public/pushover-form.php:97
+#@ codeboxrpushoverfordokan
+msgid "Just choose those you need, try to avoid the notification you really doesn't need"
+msgstr ""
+
+#: public/form.php:140
+#: public/pushover-form.php:102
+#@ codeboxrpushoverfordokan
+msgid "Notifications Types"
+msgstr ""
+
+#: public/form.php:220
+#: public/pushover-form.php:182
+#@ dokan
+msgid "Update Settings"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: codeboxrpushoverfordokan.php:0
+#@ codeboxrpushoverfordokan
+msgid "1.0.8"
+msgstr ""
+
